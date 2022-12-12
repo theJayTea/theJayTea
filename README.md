@@ -8,7 +8,7 @@ I love Python, Java, C++ & Visual Basic. I’ve also built and hosted websites (
 
 Talk to me about psychology, philosophy, science, and poetry. I'll throw in something I wrote! :3
 
-'''"Here lies my will,
+```Here lies my will,
 It’s been a thrill.
 Life goes on, they say,
 Contradicted on your death day.
@@ -18,4 +18,4 @@ Remembering love, and a nostalgic glove,
 The euphoric ecstasy.
 I’m here now, took a mere moment
 To disappear."
-#JT@16-03-22'''
+#JT@16-03-22```
