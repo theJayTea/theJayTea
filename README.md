@@ -50,4 +50,4 @@ Honors CS freshman @ UMass Amherst, currently taking graduate-level Reinforcemen
 
 [LinkedIn](https://www.linkedin.com/in/jesai-tarun-37004725a) · [Email](mailto:jesaitarun@gmail.com) · [Reddit](https://www.reddit.com/user/TechExpert2910/)
 
-I'm always down to talk about LLMs, agentic AI, product design, or why quantization is more interesting than people think.
+I'm always down to talk about LLMs, agentic AI, product design, or the oddly specific art of compressing a multimodal LLM without crushing its eyes.
