@@ -8,7 +8,7 @@ Honors CS freshman @ UMass Amherst, currently taking graduate-level Reinforcemen
 
 ### 🚀 What I'm Building
 
-**Sentient Screenshots [*[sneak peak!](https://drive.google.com/file/d/1EoxzAj7huKD12I5RrZAatLRkHLzZFljv/view?usp=sharing)*]** — An agentic AI app that uses a custom-quantized on-device vision LLM to analyze your phone screenshots and organize them into a personalized knowledge graph. No images ever leave your device. [Won $3,000 at the UMass Tech Challenge](https://drive.google.com/file/d/1OLHPf63uS9MmhOymRqJCLzEBIklzsFFC/view?usp=sharing); applying to YC S26.
+**[Sentient Screenshots](https://docs.google.com/presentation/d/1WvWQpBGn2aSdm-S0P6yxfJ1gbHKy-_Dv2ZF7lrFAs0w/edit?slide=id.g3bb6f567335_1_0#slide=id.g3bb6f567335_1_0)** — An agentic AI app that uses a custom-quantized on-device vision LLM to analyze your phone screenshots and organize them into a personalized knowledge graph. No images ever leave your device. [Won $3,000 at the UMass Tech Challenge](https://drive.google.com/file/d/1OLHPf63uS9MmhOymRqJCLzEBIklzsFFC/view?usp=sharing); applying to YC S26.
 
 **[Writing Tools](https://github.com/theJayTea/WritingTools)** — A system-wide AI writing assistant that outperforms Apple Intelligence and Grammarly. 2,000+ GitHub stars. 30,000+ users. Featured in [28+ major tech publications](https://github.com/theJayTea/WritingTools/blob/main/Media%20Coverage.md). Leading a team of 8 contributors including senior engineers.
 
