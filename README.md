@@ -1,4 +1,4 @@
-**Top 10 AI dev on GitHub. Featured in WIRED & ~40+ publications, twice. Freshman obsessed with building & shipping: Writing Tools (2K+ GitHub stars); Sentient Screenshots (agentic AI, applying to YC S26).**
+### **[Top 10 AI dev on GitHub](https://web.archive.org/web/20250210221816/https://devface.ai/month/2024-10). Featured in [WIRED](https://www.wired.com/story/your-iphone-already-has-iphone-fold-software-but-apple-wont-let-you-use-it/) & [~40+ publications](https://www.instagram.com/p/DRaHSjZCRIN/), [twice](https://github.com/theJayTea/WritingTools/blob/main/Media%20Coverage.md). Freshman obsessed with building & shipping: [Writing Tools](https://github.com/theJayTea/WritingTools) (2K+ GitHub stars); [Sentient Screenshots](https://docs.google.com/presentation/d/1WvWQpBGn2aSdm-S0P6yxfJ1gbHKy-_Dv2ZF7lrFAs0w/edit?slide=id.g3bb6f567335_1_0#slide=id.g3bb6f567335_1_0) (agentic AI, applying to YC F26).**
 
 ---
 
