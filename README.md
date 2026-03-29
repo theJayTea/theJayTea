@@ -1,6 +1,4 @@
-# Hey, I'm Jesai! 👋
-
-Top 10 AI dev on GitHub. Featured in WIRED & ~40+ publications, twice. Freshman obsessed with building & shipping: Writing Tools (2K+ GitHub stars); Sentient Screenshots (agentic AI, applying to a16z speedrun & YC S26).
+**Top 10 AI dev on GitHub. Featured in WIRED & ~40+ publications, twice. Freshman obsessed with building & shipping: Writing Tools (2K+ GitHub stars); Sentient Screenshots (agentic AI, applying to YC S26).**
 
 ---
 
