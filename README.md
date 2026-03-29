@@ -12,7 +12,7 @@
 
 ---
 
-### 🧪 I Love Pushing the Boundaries of Tech!
+### 👨‍💻 I love making the impossible possible:
 
 *[a 2-min Reel showcasing some of the crazy stuff below!](https://www.instagram.com/p/DRaHSjZCRIN/)*
 
