@@ -2,9 +2,9 @@
 
 ---
 
-### 🚀 What I'm Building
+### What I'm Building
 
-**[Sentient OS](https://github.com/Sentient-OS-Labs/sentient-os) ([**sentient-os.ai**](https://sentient-os.ai))** — An **on-device LLM** understands your entire life, then **proactively** offers to get your work done through **computer use**.
+**[Co-founder & CEO, Sentient OS](https://github.com/Sentient-OS-Labs/sentient-os) ([**sentient-os.ai**](https://sentient-os.ai))** — An **on-device LLM** understands your entire life, then **proactively** offers to get your work done through **computer use**.
 
 - Every night, it reads what's new (files, screenshots, WhatsApp, iMessage, email) in your life entirely locally to create the deepest memory of you any AI has ever had.
 - Every morning, your work is *already done*: the reply you forgot, drafted; the subscription you meant to cancel, caught. One click to fire.
