@@ -1,12 +1,19 @@
-### **[Top 10 AI dev on GitHub](https://web.archive.org/web/20250210221816/https://devface.ai/month/2024-10). Featured in [WIRED](https://www.wired.com/story/your-iphone-already-has-iphone-fold-software-but-apple-wont-let-you-use-it/) & [~40+ publications](https://www.instagram.com/p/DRaHSjZCRIN/), [twice](https://github.com/theJayTea/WritingTools/blob/main/Media%20Coverage.md). Freshman obsessed with building & shipping: [Writing Tools](https://github.com/theJayTea/WritingTools) (2K+ GitHub stars); [Sentient Screenshots](https://www.linkedin.com/posts/jesai-tarun-37004725a_running-a-great-vision-llm-entirely-on-activity-7442971172419543040-2E0O) (on-device ambient AI, applying to a16z & YC S26).**
+### **[Top 10 AI dev on GitHub](https://web.archive.org/web/20250210221816/https://devface.ai/month/2024-10). Featured in [WIRED](https://www.wired.com/story/your-iphone-already-has-iphone-fold-software-but-apple-wont-let-you-use-it/) & [~40+ publications](https://www.instagram.com/p/DRaHSjZCRIN/), [twice](https://github.com/theJayTea/WritingTools/blob/main/Media%20Coverage.md). Dropped my a16z-startup internship to build [Sentient OS](https://sentient-os.ai) in SF. Launched Jul 19th to [1,500+ users in 24 hours](https://www.reddit.com/r/macapps/comments/1v18pdf/os_3_months_ago_2500_of_you_joined_the_waitlist/).**
 
 ---
 
 ### 🚀 What I'm Building
 
-**[Sentient Screenshots](https://www.linkedin.com/posts/jesai-tarun-37004725a_running-a-great-vision-llm-entirely-on-activity-7442971172419543040-2E0O)** — A private, on-device intelligence layer for your entire digital life. A custom-quantized Vision LLM analyzes your screenshots, files, and bookmarks entirely on-device; organizing everything into interconnected knowledge graphs, giving you ambient intelligence with proactive suggestions, and letting you talk to your data in natural language ("haven't i met someone working on X?" "what's that wine i liked?"). No images ever leave your device. [Won $3,000 at the UMass Tech Challenge](https://drive.google.com/file/d/1OLHPf63uS9MmhOymRqJCLzEBIklzsFFC/view?usp=sharing); applying to YC S26.
+**[Sentient OS](https://github.com/Sentient-OS-Labs/sentient-os) ([**sentient-os.ai**](https://sentient-os.ai))** — An **on-device LLM** understands your entire life, then **proactively** offers to get your work done through **computer use**.
 
-**[Writing Tools](https://github.com/theJayTea/WritingTools)** — A system-wide AI writing assistant that outperforms Apple Intelligence and Grammarly. 2,000+ GitHub stars. 30,000+ users. Featured in [28+ major tech publications](https://github.com/theJayTea/WritingTools/blob/main/Media%20Coverage.md). Leading a team of 8 contributors including senior engineers.
+- Every night, it reads what's new (files, screenshots, WhatsApp, iMessage, email) in your life entirely locally to create the deepest memory of you any AI has ever had.
+- Every morning, your work is *already done*: the reply you forgot, drafted; the subscription you meant to cancel, caught. One click to fire.
+- Click your notch anywhere, and Sidekick drops from the notch let you ask it to "finish this for me" -- it'll take over your gruntwork using computer use.
+- Raw data never leaves your Mac. No accounts, ever. Open source (AGPL).
+- **2,500+ [waitlisted](https://www.reddit.com/r/macapps/comments/1t19lg8/sentient_os_your_mac_iphone_understand_your/) in 24h, and [1,500+ users on day one — top post on r/macapps](https://www.reddit.com/r/macapps/comments/1v18pdf/os_3_months_ago_2500_of_you_joined_the_waitlist/), $0 marketing.**
+
+
+**[Writing Tools](https://github.com/theJayTea/WritingTools)** — A system-wide AI writing assistant that beat Apple Intelligence to market and outperforms it. 2,300+ GitHub stars. 30,000+ users. Featured in [30+ major tech publications](https://github.com/theJayTea/WritingTools/blob/main/Media%20Coverage.md). Led a team of 8 contributors including senior engineers.
 
 **[Bliss AI](https://ai.google.dev/competition/projects/bliss-ai)** — A fine-tuned Gemini-powered STEM tutoring app for students in local curricula. 20,000+ questions answered. Nominated in the Google Gemini API Developer Competition.
 
